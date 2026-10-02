@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: >-
+  If you use this software, please cite it using the metadata below and cite
+  the pinned DeepRacing source dataset separately.
+title: "BRACE: Bayesian Racing-Envelope Alert for Crossing Events"
+type: software
+version: 0.1.0
+authors:
+  - family-names: Anonymous
+abstract: >-
+  Reproducible software for circuit-held-out Bayesian forecasting of mapped
+  car-center track-boundary excursions in open-wheel racing simulation. It is
+  not a Formula 1 crash, barrier-contact, injury, or active-padding validation
+  system.
+keywords:
+  - Bayesian forecasting
+  - motorsport analytics
+  - trajectory prediction
+  - uncertainty quantification
+  - track-boundary excursion
